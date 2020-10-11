@@ -1,6 +1,6 @@
 """
 Henry Yung
-HW5B
+
 
 This is a main project script file.
 """
